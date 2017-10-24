@@ -1,4 +1,5 @@
-#Multilayer Neural Net XOR
+# Multilayer Neural Net XOR
+
 ![alt](http://sj.uploads.im/t/hLmPA.png)
 ___
 
